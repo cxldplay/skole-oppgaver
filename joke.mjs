@@ -1,4 +1,4 @@
-import Joke from "../testjoke.mjs"
+import Joke from "../joke.mjs"
 
 const testJokesArray = ["Why is gravity everywhere? Because it is mass-produced"];
 const testJokesArrayMultipleJokes = ["How many programmers does it take to change a light bulb? None – It’s a hardware problem", "Why is gravity everywhere? Because it is mass-produced"];
