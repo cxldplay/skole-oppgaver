@@ -1,3 +1,4 @@
+@ -1,48 +0,0 @@
 import Joke from "../joke.mjs"
 
 const testJokesArray = ["Why is gravity everywhere? Because it is mass-produced"];
